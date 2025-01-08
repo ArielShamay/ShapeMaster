@@ -1,0 +1,2 @@
+GUIShape,-16777216,true,0,Circle2D,0.0,0.0, 1.0
+GUIShape,-16776961,true,0,Triangle2D,0.0,0.0, 1.0,0.0, 0.0,1.0
